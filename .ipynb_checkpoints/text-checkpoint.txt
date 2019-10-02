@@ -1,0 +1,3 @@
+Here's a new text file, written with vim
+What a fun time this is
+Oh boy
